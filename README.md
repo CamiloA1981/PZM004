@@ -1,6 +1,3 @@
-// PZM004
-//Programa para lectura de vatimetro, las lecturas seran realizadas sobre potencia activa, reactica y factor de potencia.
-
 #include <Arduino.h>
 #include <ModbusMaster.h>
 #include <SoftwareSerial.h>     // Si usas pines GPIO para RS485
